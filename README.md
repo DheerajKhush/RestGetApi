@@ -4,15 +4,15 @@ Java Console Application to Fetch weather API data and display to console.
 ## Directory Architecture
 
 ### View
-##### DisplayData.java
-
-
+     ##### DisplayData.java
+###
 ### DataModel
-##### ModelData.java
-
+    ##### ModelData.java
+###
 ### Input
-##### UserInput.java
-
-
+    ##### UserInput.java
+###
 #### HttpCall
-###### RestWorker.java
+    ###### RestWorker.java
+###
+# End
